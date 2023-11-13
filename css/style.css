@@ -1,0 +1,8 @@
+p {
+  width: 400px ;
+  /*border-width: 5px ; 
+  border-style: solid ; 
+  border-color:blueviolet;*/
+  border: 2px dotted goldenrod  ;
+
+}
